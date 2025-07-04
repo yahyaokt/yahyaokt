@@ -1,33 +1,16 @@
+
 # Hi there, I'm Yahya! 👋
-
-## 🎯 Current Goals
-
-- 🤖 Master advanced machine learning techniques and neural network architectures
-- 📊 Develop expertise in big data processing and real-time analytics
-- 🌐 Contribute to open source AI/ML projects and data science communities
-- 📚 Share knowledge through technical writing about AI and data science
-- 🚀 Build production-ready AI applications with scalable architectures
+I’m a sixth-semester Data Science Technology student at Universitas Airlangga, passionate about applying data science to solve real-world challenges. With a strong foundation in data analysis and programming (Python, R, SQL), I’ve been developing my skills while learning the fundamentals of machine learning and statistical modeling. Through academic projects and leadership roles in student organizations, I’ve enhanced my teamwork, problem-solving, and analytical thinking abilities. Currently, I’m exploring areas like data mining, machine learning, NLP, and statistical analysis, with a particular focus on further developing my expertise in these fields.
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=AI+and+Data+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
-
-I'm a passionate AI and Data enthusiast who loves creating intelligent solutions and extracting insights from complex data. With a focus on machine learning, data analysis, and building data-driven applications, I'm always excited to tackle new challenges in the AI/ML space.
-
-- 🔭 I'm currently working on **AI-powered analysis tools and data science projects**
-- 🌱 I'm currently learning **Machine Learning, Deep Learning, and Advanced Data Analytics**
-- 👯 I'm looking to collaborate on **AI/ML projects and data science initiatives**
-- 🤔 I'm looking for help with **advanced machine learning algorithms and neural network optimization**
-- 💬 Ask me about **Python, AI/ML, data analysis, or anything data science related**
-- 📫 How to reach me: **yahyaahnaf123@gmail.com**
-- ⚡ Fun fact: **I love turning raw data into actionable insights and building intelligent systems!**
-
 ## 🛠️ Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -35,11 +18,17 @@ I'm a passionate AI and Data enthusiast who loves creating intelligent solutions
 
 ### AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=flat-square&logo=seaborn&logoColor=white)
+
+### Data Analysis & Visualization
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![SPSS](https://img.shields.io/badge/-SPSS-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -49,6 +38,8 @@ I'm a passionate AI and Data enthusiast who loves creating intelligent solutions
 ### Backend
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -60,23 +51,6 @@ I'm a passionate AI and Data enthusiast who loves creating intelligent solutions
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yahyaokt&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yahyaokt&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyaokt&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yahyaoktn&theme=onestar&title=MultiLanguage,Stars,Commits,Repositories,Followers,Experience,PullRequest)
 
 ## 🏆 Featured Projects
 
