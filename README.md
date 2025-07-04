@@ -3,7 +3,7 @@
 I’m a sixth-semester Data Science Technology student at Universitas Airlangga, passionate about applying data science to solve real-world challenges. With a strong foundation in data analysis and programming (Python, R, SQL), I’ve been developing my skills while learning the fundamentals of machine learning and statistical modeling. Through academic projects and leadership roles in student organizations, I’ve enhanced my teamwork, problem-solving, and analytical thinking abilities. Currently, I’m exploring areas like data mining, machine learning, NLP, and statistical analysis, with a particular focus on further developing my expertise in these fields.
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=AI+and+Data+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines= AI+and+Data+Enthusiast; Machine+learning; Deep+Learning; Data+Analysis; Data+Visualization" alt="Typing SVG" />
 </div>
 
 ## 🛠️ Tech Stack
