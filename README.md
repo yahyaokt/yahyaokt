@@ -1,13 +1,15 @@
+# Hi there, I'm Yahya! 👋
+
 ## 🎯 Current Goals
 
 - 🤖 Master advanced machine learning techniques and neural network architectures
 - 📊 Develop expertise in big data processing and real-time analytics
 - 🌐 Contribute to open source AI/ML projects and data science communities
 - 📚 Share knowledge through technical writing about AI and data science
-- 🚀 Build production-ready AI applications with scalable architectures# Hi there, I'm Yahya! 👋
+- 🚀 Build production-ready AI applications with scalable architectures
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=AI+and+Data+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -27,7 +29,6 @@ I'm a passionate AI and Data enthusiast who loves creating intelligent solutions
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -74,6 +75,9 @@ I'm a passionate AI and Data enthusiast who loves creating intelligent solutions
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyaokt&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yahyaoktn&theme=onestar&title=MultiLanguage,Stars,Commits,Repositories,Followers,Experience,PullRequest)
+
 ## 🏆 Featured Projects
 
 ### 🌟 [Nailysist](https://github.com/yahyaokt/Nailysist)
@@ -81,9 +85,6 @@ An AI-powered nail analysis system that uses computer vision and machine learnin
 
 ### 🌟 [SMART-RFM](https://github.com/yahyaokt/SMART-RFM)
 A sophisticated customer segmentation tool using RFM (Recency, Frequency, Monetary) analysis enhanced with machine learning algorithms. Helps businesses identify high-value customers and optimize marketing strategies through data-driven insights.
-
-### 🌟 [Data Analytics Dashboard](https://github.com/yahyaokt/project3)
-Interactive data visualization dashboard built with React and Python backend, featuring real-time analytics, predictive modeling, and comprehensive reporting capabilities for business intelligence.
 
 ## 📈 Activity Graph
 
@@ -102,8 +103,8 @@ Interactive data visualization dashboard built with React and Python backend, fe
 
 <div align="center">
   
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/yahyaokt_)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadyahyaokt)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portofolio-yahya.netlify.app/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yahyaahnaf123@gmail.com)
 
